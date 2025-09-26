@@ -1,1 +1,4 @@
+import joblib
+
+# Correct relative path
 model = joblib.load('./best_random_forest.joblib')
